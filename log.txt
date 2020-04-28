@@ -9,4 +9,6 @@ with the string(message) provided to which we can come back to when wanted.
 nano log.txt : opens the file for editting in nano text editor
 CTrl+O : Save
 Ctrl+ X: to exit nano
+git branch : lists all the branches
+git merge breason :merges and commits the chnage in the current branch
 
