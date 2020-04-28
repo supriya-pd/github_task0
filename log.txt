@@ -11,4 +11,8 @@ CTrl+O : Save
 Ctrl+ X: to exit nano
 git branch : lists all the branches
 git merge breason :merges and commits the chnage in the current branch
+git remote: lists the remotes( links basically)that you have created
+git add remote name URL :creates remote
+git push remote branch : in order to push your work on computer to your github account.If its someone else's repo, it
+creates a pull request which need to be confirmed.
 
