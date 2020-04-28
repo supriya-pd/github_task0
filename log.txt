@@ -1,0 +1,12 @@
+git clone URL: retrieve an entire repository from a hosted location via url
+git branch firstname_lastname: creates a new branch
+git branch: lists all branches and shows the active branch
+git checkout firstnmae_lastname: switches from master branch(default branch) to firstname_lastname(now the active branch)
+touch log.txt: creates this text file
+git add log.txt: moves our file from workng copy to the staging area
+git commit -m "Created file log.txt" : moves our file to the repository or saves this instant of time
+with the string(message) provided to which we can come back to when wanted.
+nano log.txt : opens the file for editting in nano text editor
+CTrl+O : Save
+Ctrl+ X: to exit nano
+
